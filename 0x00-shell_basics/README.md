@@ -7,3 +7,4 @@ Create a script that creates a directory named myfirstdirectory
 moving file from one directory to another
 deleting file
 removing directory
+a script that changes the working directory to the previous one
