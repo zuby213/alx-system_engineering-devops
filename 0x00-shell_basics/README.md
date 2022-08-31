@@ -6,3 +6,4 @@ Display current directory contents
 Create a script that creates a directory named myfirstdirectory
 moving file from one directory to another
 deleting file
+removing directory
