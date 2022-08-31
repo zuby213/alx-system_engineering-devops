@@ -9,4 +9,5 @@ deleting file
 removing directory
 a script that changes the working directory to the previous one
 a script that lists all files
-a script that prints the type of the file 
+a script that prints the type of the file
+Create a symbolic link 
