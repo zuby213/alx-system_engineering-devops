@@ -7,3 +7,4 @@ display first 10 lines
 display 3rd line
 saving file 
 save current directory
+duplicate last line
