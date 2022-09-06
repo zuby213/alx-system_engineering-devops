@@ -2,3 +2,4 @@
 a smiley script
 display content script
 display 2 content
+display lasy 10 lines
