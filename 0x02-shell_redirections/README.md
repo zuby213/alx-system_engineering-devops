@@ -9,3 +9,4 @@ saving file
 save current directory
 duplicate last line
 no more js
+ a script that counts the number of directories and sub-directories in the current directory
